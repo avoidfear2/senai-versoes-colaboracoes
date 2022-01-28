@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T01:55:35.779Z" agent="5.0 (Macintosh)" etag="R0aMFv8oCEJgzUjicokb" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-28T01:57:35.125Z" agent="5.0 (Macintosh)" etag="LSY2CKf57siacxHBcWIJ" version="16.4.11" type="github">
   <diagram id="oEY54VnRI3a-WQc0tcZW" name="Page-1">
     <mxGraphModel dx="786" dy="451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,8 +75,11 @@
         <mxCell id="jYR1chgS2lEZSpPT1RCf-23" value="&lt;div&gt;LIMITAR A 100 CADASTROS&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="466" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jYR1chgS2lEZSpPT1RCf-24" value="&lt;div&gt;MAIS DE 100 CADASTROS? ALERTA DE LIMITE EXCEDIDO E RECUSAR CADASTRO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jYR1chgS2lEZSpPT1RCf-24" value="&lt;div&gt;ALERTA DE LIMITE EXCEDIDO E RECUSAR CADASTRO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="306" width="168" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYR1chgS2lEZSpPT1RCf-28" value="MAIS DE 100 CADASTROS?" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="405" width="177" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
